@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity.Runtime", "Gravity.Runtime\Gravity.Runtime.csproj", "{B844001A-0613-418F-B0EC-4B91CADA0E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity.Models", "Gravity.Models\Gravity.Models.csproj", "{3A8624BC-1A90-4B87-BB17-A69092F92845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity.Services", "Gravity.Services\Gravity.Services.csproj", "{92B2D67B-6AE3-437F-868F-FC4F65E1AB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B844001A-0613-418F-B0EC-4B91CADA0E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B844001A-0613-418F-B0EC-4B91CADA0E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B844001A-0613-418F-B0EC-4B91CADA0E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B844001A-0613-418F-B0EC-4B91CADA0E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8624BC-1A90-4B87-BB17-A69092F92845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8624BC-1A90-4B87-BB17-A69092F92845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8624BC-1A90-4B87-BB17-A69092F92845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8624BC-1A90-4B87-BB17-A69092F92845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B2D67B-6AE3-437F-868F-FC4F65E1AB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B2D67B-6AE3-437F-868F-FC4F65E1AB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B2D67B-6AE3-437F-868F-FC4F65E1AB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B2D67B-6AE3-437F-868F-FC4F65E1AB02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
