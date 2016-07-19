@@ -48,6 +48,7 @@
     <Compile Include="CommandLogService.cs" />
     <Compile Include="CommandService.cs" />
     <Compile Include="ComputationService.cs" />
+    <Compile Include="DisplayService.cs" />
     <Compile Include="ErrorService.cs" />
     <Compile Include="GlobalService.cs" />
     <Compile Include="NaturalSelectionService.cs" />

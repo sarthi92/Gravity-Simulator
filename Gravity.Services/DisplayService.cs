@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Gravity.Services
 {
-    public class NaturalSelectionService
+    public class DisplayService
     {
     }
 }
