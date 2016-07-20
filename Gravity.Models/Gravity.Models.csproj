@@ -43,6 +43,7 @@
     <Compile Include="Celestial.cs" />
     <Compile Include="Enums\CmdType.cs" />
     <Compile Include="Enums\CurrentMode.cs" />
+    <Compile Include="Enums\CurrentUniverse.cs" />
     <Compile Include="Enums\ObjType.cs" />
     <Compile Include="Errors\ErrorMessages.Designer.cs">
       <AutoGen>True</AutoGen>

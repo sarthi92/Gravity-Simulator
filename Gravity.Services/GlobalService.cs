@@ -13,6 +13,7 @@ namespace Gravity.Services
         Universe _universe;
         public double G;
         public CurrentMode MODE;
+        public CurrentUniverse UNIV;
 
         public GlobalService()
         {
@@ -22,6 +23,7 @@ namespace Gravity.Services
             _universe.ProbeList = new List<Probe>();
             G = 0.0000000001;
             MODE = CurrentMode.DATA;
+            UNIV = CurrentUniverse.IMAGVERSE;
         }
 
         public void Save(Universe universe)

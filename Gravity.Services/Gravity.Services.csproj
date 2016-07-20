@@ -45,9 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApiService.cs" />
+    <Compile Include="BufferService.cs" />
     <Compile Include="CommandLogService.cs" />
     <Compile Include="CommandService.cs" />
     <Compile Include="ComputationService.cs" />
+    <Compile Include="DataService.cs" />
     <Compile Include="DisplayService.cs" />
     <Compile Include="ErrorService.cs" />
     <Compile Include="GlobalService.cs" />
